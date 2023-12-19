@@ -16,7 +16,7 @@
 
 在 [GLaDOS](https://glados.rocks/console/checkin) 的网页上按 F12，进行请求，`Network > checkin > Headers > Resquest Headers > cookie` 查看请求的 cookie，如图所示：
 
-![](https://cdn.jsdelivr.net/gh/shimmerjordan/GLaDOS-autoCheckin@master/README.assets/cookie.png)
+![](https://raw.githubusercontent.com/kaerser/blogimages/main/glados_login/cookie.png)
 
 ### 3 设置 cookie
 
